@@ -1,4 +1,0 @@
-Name: Maciej Zamojski 
-University: PJATK 
-Student id: s36268 
-Hello from the branch 
